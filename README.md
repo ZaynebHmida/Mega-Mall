@@ -40,13 +40,11 @@ Mobile(ANDROID):
 Web(LARAVEL):
 
 
-![ajout prod-admin](https://user-images.githubusercontent.com/47888237/106369809-c2b55b00-6354-11eb-90c6-f8f4d03b5852.PNG)
-![ajoutprod-b-owner](https://user-images.githubusercontent.com/47888237/106369811-c517b500-6354-11eb-8900-e16f8be00ad7.png)
-![detail-prod](https://user-images.githubusercontent.com/47888237/106369813-c6e17880-6354-11eb-8636-70425d911636.png)
-![login-boutique-owner](https://user-images.githubusercontent.com/47888237/106369814-c943d280-6354-11eb-814f-26169b27d2f3.png)
-![login-super-admin](https://user-images.githubusercontent.com/47888237/106369818-cd6ff000-6354-11eb-8d37-a104780c0fec.jpg)
-![partie-boutique-owner](https://user-images.githubusercontent.com/47888237/106369819-ce088680-6354-11eb-9134-c14084e34ed8.png)
-![partie-super-admin](https://user-images.githubusercontent.com/47888237/106369820-cea11d00-6354-11eb-8eb6-6739b3501387.PNG)
-![recherche-pos](https://user-images.githubusercontent.com/47888237/106369821-d06ae080-6354-11eb-9e30-3696e16d50c2.PNG)
-
+![1](https://user-images.githubusercontent.com/47888237/106369856-23dd2e80-6355-11eb-83f1-0f8c089529fd.jpg)
+![2](https://user-images.githubusercontent.com/47888237/106369857-25a6f200-6355-11eb-8902-ab8a20be3f83.PNG)
+![3](https://user-images.githubusercontent.com/47888237/106369859-2770b580-6355-11eb-870c-724e62356abe.png)
+![4](https://user-images.githubusercontent.com/47888237/106369860-28094c00-6355-11eb-89e5-b707e0879569.PNG)
+![5](https://user-images.githubusercontent.com/47888237/106369862-2d669680-6355-11eb-9d75-160290d02ec8.png)
+![6](https://user-images.githubusercontent.com/47888237/106369863-2e97c380-6355-11eb-92fd-ef5fafdca8bc.png)
+![7](https://user-images.githubusercontent.com/47888237/106369864-2f305a00-6355-11eb-89de-8ef85186575b.PNG)
 
