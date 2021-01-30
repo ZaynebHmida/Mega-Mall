@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1055899375498",
+    "firebase_url": "https://megamall-4b04d.firebaseio.com",
+    "project_id": "megamall-4b04d",
+    "storage_bucket": "megamall-4b04d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055899375498:android:4fe9e4d050c96f31",
+        "android_client_info": {
+          "package_name": "com.anypli.megamall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055899375498-qnb9rvvn6d0mcjneieranud92k6psmbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPG6MR-Vq_PsBcuZWm_AMsclhbJqhTfGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055899375498-qnb9rvvn6d0mcjneieranud92k6psmbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

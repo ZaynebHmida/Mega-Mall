@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/LatestFeed"
+            android:icon="@drawable/ic_menu_newsfeed"
+            android:title="Latest" />
+        <item
+            android:id="@+id/BoutiquesListing"
+            android:icon="@drawable/ic_menu_list"
+            android:title="My Boutiques" />
+        <item
+            android:id="@+id/LocateBoutiques"
+            android:icon="@drawable/ic_menu_map"
+            android:title="Locate Boutiques (AR) " />
+        <item
+            android:id="@+id/MyAccount"
+            android:icon="@drawable/ic_account_box"
+            android:title="My Account" />
+
+        <item android:id="@+id/LogOut"
+            android:icon="@drawable/ic_menu_logout"
+            android:title="LogOut"/>
+    </group>
+
+
+</menu>

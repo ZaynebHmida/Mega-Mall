@@ -1,0 +1,5 @@
+1,0,Asus,,Asus is famous boutique for smart electronique. we are the best in this field,i don't know the location really,https://i.ebayimg.com/images/g/p1UAAOSwxL5cHPlN/s-l300.jpg,
+2,0,Samsung,,all what you need we can make just imagine it and let the heavy work for us,i don't know the location really,http://www.selectelwireless.com/wp-content/uploads/2016/08/SamsungLogo.png300.jpg,
+3,0,puma,,we don't need to talk about us we let our products do the talking,also dont know where,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpt-EK5UUKkSj1lG3dt4VAuD5fxqVrE8nf8w8qyhxj5TeRG0gY,
+1,2,smartphone,Samsung,this is a smartphone , i don't need to tell you what a smartphone is and look it red,http://www.selectelwireless.com/wp-content/uploads/2016/08/SamsungLogo.png300.jpg,,https://www.phonedog.com/sites/phonedog.com/files/styles/blog_entry/public/blog/main_image/2019/06/cardinal-red-galaxy-s10-plus.jpg
+2,2,Tank,Samsang,this is a tank and yes you can buy a tank from us,http://www.selectelwireless.com/wp-content/uploads/2016/08/SamsungLogo.png300.jpg,,http://3.bp.blogspot.com/-6K6ohO4HirA/U4kywizZAOI/AAAAAAAAB6M/ap_OJureBd4/s1600/kaav2.jpg
